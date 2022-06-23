@@ -1,6 +1,11 @@
 ---
-permalink: /about/
-title: "Group Members"
+permalink: /homesplash/
+title: "Welcome"
+header:
+  image: /assets/images/header.png
+layout: splash
+classes:
+  - landing
 ---
 
 <p><img src="/assets/images/photoAdelstein.jpg" alt="photo of Prof Adelstein" width="100"/> 
@@ -9,8 +14,6 @@ Nicole Adelstein has a Ph.D. in Materials Science and Engineering from UC Berkel
 The Adelstein Research Group seeks to understand and improve materials for electrochemical technologies, with a focus on Li-ion batteries. We study atomic-scale processes, such as diffusion, in battery materials, using first-principles (quantum mechanics) simulations.
 
 ## Current Members ##
-* Ginzu Fung Guan (since S22)
-* Anneke Moeller (since S20 with Qiu)
 * Salma Ahmed (since F20)
 * Oskar Garcia (since S20)
 * Johana Aleman (since S20)
