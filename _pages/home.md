@@ -9,19 +9,19 @@ classes:
 ---
 
 <p><img src="/assets/images/photoAdelstein.jpg" alt="photo of Prof Adelstein" width="100"/> 
-Nicole Adelstein has a Ph.D. in Materials Science and Engineering from UC Berkeley. Her undergraduate BA degree was in Interdisciplinary Chemistry and Physics from Reed College. She was at Lawrence Livermore National Laboratory for three years as a postdoc until starting at San Francisco State Universisy (SFSU).  </p>
+Nicole Adelstein has a Ph.D. in Materials Science and Engineering from UC Berkeley. Her undergraduate BA degree was in Interdisciplinary Chemistry and Physics from Reed College. She was at Lawrence Livermore National Laboratory for three years as a postdoc until starting at San Francisco State University (SFSU).  </p>
 
 The Adelstein Research Group seeks to understand and improve materials for electrochemical technologies, with a focus on Li-ion batteries. We study atomic-scale processes, such as diffusion, in battery materials, using first-principles (quantum mechanics) simulations.
 
 ## Current Members ##
-* Myco Torres (since F22)
-* Anastasia Ovnnichov (since S22)
+* Anastasia Ovchinnikov (since S22)
 * Janet Zhen (since F22, with Jingjing Qiu)
 * Ginzu Fung (since S22, with Jingjing Qiu)
 * Salma Ahmed (since F20)
 * Oskar Garcia (since S20)
 
 ## Former Members ##
+* Myco Torres (F22)
 * Johana Aleman (S20)
 * Michael Coates (F20-F21)
 * Tracy Nguyen (S20)
@@ -46,5 +46,9 @@ The Adelstein Research Group seeks to understand and improve materials for elect
 * Alysia Zevgolis (F15-)
 
 ## Summer Students ##
+* Yuly Cruz(PSP23)
+* Steven Jue (PSP23)
+* Laurence To (PSP23)
+* Amando Nudo (PSS23)
 
 

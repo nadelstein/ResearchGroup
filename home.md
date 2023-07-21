@@ -13,13 +13,13 @@ feature_row:
   - image_path: /assets/images/photoAdelstein.jpg
     alt: "people"
     title: "Professor Nicole Adelstein"
-    excerpt: "The Adelstein Research Group at San Francisco State University includes undergraduate and Masters' students doing computation chemistry."
+    excerpt: "The Adelstein Research Group at San Francisco State University includes undergraduate and Masters' students doing computational chemistry."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Group"
   - image_path: /assets/images/research.png
     alt: "research"
-    title: "Renewable Energy Materals"
+    title: "Renewable Energy Materials"
     excerpt: "The main focus of the group is to simulate ionic conductivity in materials for electrochemical technologies, like solid-state Li-ion batteries."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
