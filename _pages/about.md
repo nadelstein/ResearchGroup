@@ -9,12 +9,20 @@ Professor Nicole Adelstein has a Ph.D. in Materials Science and Engineering from
 The Adelstein Research Group seeks to understand and improve materials for electrochemical technologies, with a focus on Li-ion batteries. We study atomic-scale processes, such as diffusion, in battery materials, using first-principles (quantum mechanics) simulations.
 
 ## Current Members ##
+* Madison Hales (S24)
+* Spencer Kirkman (S24)
+* Eshton Liu (S24)
+* Lexi Montes (S24)
+* Galilee May Samuels (S24)
+* John Situ (S24)
+* Steven Jue (since F23)
 * Anastasia Ovchinnikov (since S22)
 * Janet Zhen (since F22, with Jingjing Qiu)
 * Ginzu Fung (since S22, with Jingjing Qiu)
 * Oskar Garcia (since S20)
 
 ## Former Members ##
+* Amando Nudo (F23)
 * Salma Ahmed (F20-S23)
 * Myco Torres (F22)
 * Johana Aleman (S20)
