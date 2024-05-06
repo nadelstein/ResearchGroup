@@ -12,10 +12,10 @@ The Adelstein Research Group seeks to understand and improve materials for elect
 * Anastasia Ovchinnikov (since S22)
 * Janet Zhen (since F22, with Jingjing Qiu)
 * Ginzu Fung (since S22, with Jingjing Qiu)
-* Salma Ahmed (since F20)
 * Oskar Garcia (since S20)
 
 ## Former Members ##
+* Salma Ahmed (F20-S23)
 * Myco Torres (F22)
 * Johana Aleman (S20)
 * Michael Coates (F20-F21)
