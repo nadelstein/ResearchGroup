@@ -10,26 +10,33 @@ We are always looking for new master's and undergraduate research students to jo
 In addition, please contact Professor Adelstein if you would like a pdf of any of her papers or access to scripts used to analyze diffusion in molecular dynamics simulations. Included after the list of publications are links to posters presented by students at conferences. 
  
 ## Publications at SFSU ##
-1. *K. M. Jew, *V. T. B. Le, *K. Amaral, *A. Ta, *N. M. Nguyen, *M. Law, N. Adelstein, and M. L. Kuhn, “Investigation of the importance of protein 3D structure for assessing conservation of lysine acetylation sites in protein homologs” Frontiers in Microbiology 12:805181 (2022).
 
-2. P.E. Weng, A. Gooyandeh, M. Tariq, T. Li, A. Godara, J. Valenzuela, S. Mancini, S.M.T. Yeung, R. Sosa, D. R. Wagner, R. Dhall, N. Adelstein, K. Kao, D. Oh “Microbe-Assisted Nanocomposite Anodes for Aqueous Li-ion batters” ACS Applied Materials & Interfaces 13(33) 39195-39204 (2021).
+13. T. Zimmerman, R. Esquerra, Y.-H. M. Chan, A. Kulkarni, N. Adelstein, A. Albright, J. Luo, Z. Dean, S. Ahmed*, M. Phillips, S. Bianco, S. Capponi “Teaching Image Processing and Optical Engineering to University Biology Students” The Biophysicist 4 (1): 38–57 (2023).
 
-3. T. W. Heo, *A. Grieder, B. Wang, M. Wood, T. Hsu, S. A. Akhade, L. Wan, L.Q. Chen, N. Adel- stein, and B. C. Wood, “Microstructural impacts on the ionic conductivity of oxide-based solid electrolytes: A combined atomistic-mesoscale approach” npj Computational Materials 7 (214) (2021).
+12. J. Qiu, *A. Moeller, *J. Zhen, *H. Yang, *L. Din, N. Adelstein, “Teaching Heterogeneous Electro- catalytic Water Oxidation with Nickel- and Cobalt- Based Catalysts using Cyclic Voltammetry and Python Simulation” The Journal of Chemical Education (ACS Editor’s pick and cover art) 100, 8, 3036–3043 (2023).
+  
+11. K. Kim, A. Dive, *A. Grieder, N. Adelstein, S. Kang, L. Wan, and B. C. Wood, “Flexible machine- learning interactomic potential for simulating structural disordering behavior of Li7La3Zr2O12 solid electrolytes” Journal of Chemical Physics 156, 201101 (2022).
 
-4. *Z. Mehmedovi`c, *V. Wei, *A. Grieder, P. Shea, B. C. Wood, N. Adelstein, “Impacts of vacancy- induced polarization and distortion on diffusion in solid electrolyte Li3OCl”
+10. *K. M. Jew, *V. T. B. Le, *K. Amaral, *A. Ta, *N. M. Nguyen, *M. Law, N. Adelstein, and M. L. Kuhn, “Investigation of the importance of protein 3D structure for assessing conservation of lysine acetylation sites in protein homologs” Frontiers in Microbiology 12:805181 (2022).
+
+9. P.E. Weng, A. Gooyandeh, M. Tariq, T. Li, A. Godara, J. Valenzuela, S. Mancini, S.M.T. Yeung, R. Sosa, D. R. Wagner, R. Dhall, N. Adelstein, K. Kao, D. Oh “Microbe-Assisted Nanocomposite Anodes for Aqueous Li-ion batters” ACS Applied Materials & Interfaces 13(33) 39195-39204 (2021).
+
+8. T. W. Heo, *A. Grieder, B. Wang, M. Wood, T. Hsu, S. A. Akhade, L. Wan, L.Q. Chen, N. Adel- stein, and B. C. Wood, “Microstructural impacts on the ionic conductivity of oxide-based solid electrolytes: A combined atomistic-mesoscale approach” npj Computational Materials 7 (214) (2021).
+
+7. *Z. Mehmedovi`c, *V. Wei, *A. Grieder, P. Shea, B. C. Wood, N. Adelstein, “Impacts of vacancy- induced polarization and distortion on diffusion in solid electrolyte Li3OCl”
 Philosophical Transactions of the Royal Society A. 379 (2211): 20190459 (2021).
 
-5. B. C. Wood, J. B. Varley, K. E. Kweon, P. Shea, *A. T. Hall, *A. Grieder, *M. Ward, *V. P. Aguirre, *D. Rigling, *E. Lopez Ventura, *C. Stancill, and N. Adelstein, “Paradigms of frustration in superionic solid electrolytes” Philosophical Transactions of the Royal Society A. 379 (2211): 20190467 (2021).
+6. B. C. Wood, J. B. Varley, K. E. Kweon, P. Shea, *A. T. Hall, *A. Grieder, *M. Ward, *V. P. Aguirre, *D. Rigling, *E. Lopez Ventura, *C. Stancill, and N. Adelstein, “Paradigms of frustration in superionic solid electrolytes” Philosophical Transactions of the Royal Society A. 379 (2211): 20190467 (2021).
 
-6. P. Pennings, *M. M. Banuelos, *F. L. Catalan, *V. R. Caudill, *B. Chakalov, *S. Hernandez, *J. Jones, *C. Okorie, S. Modrek, R. Rohlfs, N. Adelstein, “Ten simple rules for an inclusive summer coding program for non-CS undergraduates” PLOS Computational Biology 16 (9): e1007833 (2020).
+5. P. Pennings, *M. M. Banuelos, *F. L. Catalan, *V. R. Caudill, *B. Chakalov, *S. Hernandez, *J. Jones, *C. Okorie, S. Modrek, R. Rohlfs, N. Adelstein, “Ten simple rules for an inclusive summer coding program for non-CS undergraduates” PLOS Computational Biology 16 (9): e1007833 (2020).
 
-7. *A. Zevgolis, B. C. Wood, *Z. Mehmedovi`c, *A. Hall, *T. Alves, and N. Adelstein, “Alloying effects on superionic conductivity in lithium indium halides for all-solid-state batteries” APL Materials 6, 047903 (2018).
+4. *A. Zevgolis, B. C. Wood, *Z. Mehmedovi`c, *A. Hall, *T. Alves, and N. Adelstein, “Alloying effects on superionic conductivity in lithium indium halides for all-solid-state batteries” APL Materials 6, 047903 (2018).
 
-8. K. Kweon, J. Varley, P. Shea, N. Adelstein, P. Mehta, T. W. Heo, T. Udovic, V. Stavila, B. Wood, “Structural, chemical, and dynamical frustration: Origins of superionic conductivity in closo-borate solid electrolytes” Chemistry of Materials 29 (21), 9142-9153 (2017).
+3. K. Kweon, J. Varley, P. Shea, N. Adelstein, P. Mehta, T. W. Heo, T. Udovic, V. Stavila, B. Wood, “Structural, chemical, and dynamical frustration: Origins of superionic conductivity in closo-borate solid electrolytes” Chemistry of Materials 29 (21), 9142-9153 (2017).
 
-9. N. Adelstein, D. Lee, J. DuBois, K. Ray, J. Varley, V. Lordi, “Magnetic stability of oxygen defects on the SiO2 surface” AIP Advances (2016).
+2. N. Adelstein, D. Lee, J. DuBois, K. Ray, J. Varley, V. Lordi, “Magnetic stability of oxygen defects on the SiO2 surface” AIP Advances (2016).
 
-10. N. Adelstein and B. Wood, “Role of dynamically frustrated bond disorder in a Li+ superionic solid electrolyte” Chemistry of Materials 28 (20) 7218-7231 (2016).* 
+1. N. Adelstein and B. Wood, “Role of dynamically frustrated bond disorder in a Li+ superionic solid electrolyte” Chemistry of Materials 28 (20) 7218-7231 (2016).* 
 
 
 ## Pulications at LLNL and UCB ##
