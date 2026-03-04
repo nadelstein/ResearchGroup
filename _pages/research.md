@@ -3,13 +3,27 @@ permalink: /research/
 title: "Research"
 ---
 
-We run moleulcar dynamics to simulate and understand ion diffusion in solid electrolytes for all-solid-state batteries. The codes we utilize are VASP, Quantum Espresso, and Gaussian for first-principles simulations, and LAMMPS for classical or machine learning force field simulations. We collaborate with SFSU Professor Jingjing Qiu to study oxygen evolution catalysts and with SFSU Professor Misty Kuhn to understand acetylation of lysine residues in E. Coli proteins. We have collaborated with SJSU Professor Dahyun Oh to study novel anode materials for Li-ion batteries. 
+We run simulations of the reactivity, structure, and properties of materials for electrochemical systems. Our primary focus has been to understand reactivity and ionic diffusion in these materials, especially solid electrolytes for all-solid-state batteries. We have extensive experience in atomic-scale simulations, including first-principles Density Functional Theory molecular dynamics and training machine learning interatomic potentials. Properties calculated at the quantum and atomic scale are then leveraged to inform meso-scale simulations of microstructure. 
+
+The codes we utilize are VASP, Quantum Espresso, and Gaussian for first-principles simulations, and LAMMPS for classical or machine learning interatomic potential simulations. We collaborate with SFSU Professor Jingjing Qiu to study oxygen evolution catalysts and hae worked with SFSU Professor Misty Kuhn to understand acetylation of lysine residues in E. Coli proteins. We have collaborated with SJSU Professor Dahyun Oh to study novel anode materials for Li-ion batteries.
 
 We are always looking for new master's and undergraduate research students to join the group, so please contact Professor Adelstein if interested. Qualifications are only two semesters of general chemistry and an interest in learning Python and to work on renewable energy research. 
 
 In addition, please contact Professor Adelstein if you would like a pdf of any of her papers or access to scripts used to analyze diffusion in molecular dynamics simulations. Included after the list of publications are links to posters presented by students at conferences. 
  
 ## Publications at SFSU ##
+
+19. B. Wang, O. K. Garcia, M. Wood, J. Ye, B. C. Wood, T. W. Heo, N. Adelstein. “Microstructure-informed analytical modeling of composite cathode for solid-state batteries”  Microstructures Volume 6, Issue 1 (2026).
+
+18. D. Huang, S. Yuan, N. Adelstein, G. Liu, L. F. Wan, W. Tong. “Unveiling the Role of Lithium Iodide in Stabilizing Solid Interfaces in All-Solid-State Li Metal Batteries” ACS Energy Letters, 10, 9, 4553–4559(2025).
+
+17. S. E. Weitzner, B. Wang, N. Rampal, W. Jeong, S. Yuan, S. Zhang, G. Bucci, N. Adelstein, S. Yan, A. C. Marschilok, L. F. Wan. “Cross-scale modeling and experimental integration for advancing cathode electrolyte interfphase studies in high energy density lithium-ion batteries” Energy Storage Materials 80: 104368 (2025). 
+
+16. K. Kim, N. Adelstein, A. Dive, A. Grieder*, S.Y. Kang, B. C. Wood, L. F. Wan. “Probing degradation at solid-state battery interfaces using machine-learning interatomic potential” Energy Storage Materials 73: 103842 (2024). 
+
+15. J. Xiao, N. Adelstein, Y. Bi, W. Bian, J. Cabana, C. J. Cobb, Y. Cui, S. J. Dilon, M. M. Doeff, S. M. Islam, K. Leung, M. Li, F. Lin, J. Liu, H. Luo, A. C. Marschilok, Y. S. Meng, Y. Qi, R. Sahore, K. G. Sprenger, R. C. Tenent, M. F. Toney, W. Tong, L. F. Wan, C. Wang, S. E. Weitzner, B. Wu, Y. Xu. “Assessing cathode-eletrolyte interphases in batteries” Nature Energy 1-11 (2024). 
+
+14. A. Grieder*, K. Kim, L. F. Wan, J. Chapman, B. C. Wood, N. Adelstein, “Effects of Nonequilibrium Atomic Structure on Ionic Diffusivity in LLZO: A Classical and Machine Learning Molecular Dynamics Study” The Journal of Physical Chemistry C 128 (21): 8560-8570 (2024).  
 
 13. T. Zimmerman, R. Esquerra, Y.-H. M. Chan, A. Kulkarni, N. Adelstein, A. Albright, J. Luo, Z. Dean, S. Ahmed*, M. Phillips, S. Bianco, S. Capponi “Teaching Image Processing and Optical Engineering to University Biology Students” The Biophysicist 4 (1): 38–57 (2023).
 
