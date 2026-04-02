@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Please contact Professor Adelstein if you would like access to syllabi or other course materials. Her notes and problem sets for her graduate level Computational Chemistry course are available on NanoHub (link). The most recent semester is noted. 
+Please contact Professor Adelstein if you would like access to syllabi or other course materials. Her notes and problem sets for her graduate level Computational Chemistry course are available on [NanoHub](https://nanohub.org/resources/35383). The most recent semester is noted. 
 
 ## Chemistry classes ##
 * Physical Chemistry I, Thermodynamics: CHEM 351 (F24)

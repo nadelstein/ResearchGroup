@@ -8,7 +8,7 @@ header:
   image: /assets/images/header.png
   caption: "Bonding between mobile and lattice ions."
 intro: 
-  - excerpt: 'The Adelstein Research Group has expertise in simulating ionic diffusion in electrolytes for solid state batteries. We also collaborate at SFSU to study acetylation in proteins (with Misty Kuhn) and oxygen evolution catalysts (with Jingjing Qiu). We utilize density functional theory and classical and machine learning force fields to run molecular dynamics simulations of large model systems. This website is UNDER CONSTRUCTION - be patient with broken links and blank content.'
+  - excerpt: 'The Adelstein Research Group has expertise in simulating ionic diffusion in electrolytes for solid state batteries. We also collaborate at SFSU to study acetylation in proteins (with Misty Kuhn) and oxygen evolution catalysts (with Jingjing Qiu). We utilize density functional theory and classical and machine learning force fields to run molecular dynamics simulations of large model systems.'
 feature_row:
   - image_path: /assets/images/photoAdelstein.jpg
     alt: "people"

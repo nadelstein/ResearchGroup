@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Adelstein Research Group"
   avatar : "/assets/images/NicoleLogo_GoldWhite.png"
-  bio    : "Computational Materials Science & some Biochem. Website under construction."
+  bio    : "Computational Materials Science & Biochemistry at San Francisco State University."
   links:
     - label: "San Francisco State Univ."
 #     icon: "/assets/images/NicoleLogo_Purple.png"

@@ -14,53 +14,17 @@ Nicole Adelstein has a Ph.D. in Materials Science and Engineering from UC Berkel
 The Adelstein Research Group seeks to understand and improve materials for electrochemical technologies, with a focus on Li-ion batteries. We study atomic-scale processes, such as diffusion, in battery materials, using first-principles (quantum mechanics) simulations.
 
 ## Current Members ##
-* Zorikto Erdyneev (F25)
-* Spencer Kirkman (S24)
-* Eshton Liu (S24)
-* Galilee May Samuels (S24)
-* Steven Jue (since F23)
-* Oskar Garcia (since S20)
+{% for member in site.data.members.current %}
+* {{ member.name }} ({{ member.date }})
+{% endfor %}
 
 ## Former Members ##
-* Emilio Lazcano (F25)
-* Lexi Montes (S24)
-* Madison Hales (S24)
-* John Situ (S24-F26)
-* Anastasia Ovchinnikov (S22-F24)
-* Janet Zhen (F22-S24, with Jingjing Qiu)
-* Ginzu Fung (S22-S24, with Jingjing Qiu)
-* Amando Nudo (F23)
-* Salma Ahmed (F20-S23)
-* Myco Torres (F22)
-* Johana Aleman (S20)
-* Michael Coates (F20-F21)
-* Tracy Nguyen (S20)
-* Allysa Ta (S20-F21)
-* Kiana Amaral (S20-F21)
-* Elisa Vaezazizi (S20-F21)
-* Jazmin Velazquez (S20-F21)
-* Nathan Le (S20)
-* Clarence Olero (F19-)
-* Ellen (S19-)
-* Eduardo Lopez (S19-)
-* Samantha Ocampo (F18-)
-* Jocelyn Bonilla-Araujo (F18-)
-* Vanessa Wei (F17-)
-* Michael Ward (F17-)
-* Vincent Aguirre (F17-)
-* Alex T. Hall (S17-)
-* Andrew Grieder (S17-)
-* Zerina Mehmedovic (S17-)
-* Nima Leclerc (F16-)
-* Thomaz Alves (S16-)
-* Alysia Zevgolis (F15-)
+{% for member in site.data.members.former %}
+* {{ member.name }} ({{ member.date }})
+{% endfor %}
 
 ## Summer Students ##
-* Emilio Lazcano (PSP25)
-* Aline Moran (PSP25)
-* Evilio Banegas (PSP25)
-* Yuly Cruz(PSP23)
-* Steven Jue (PSP23)
-* Laurence To (PSP23)
-* Amando Nudo (PSS23)
+{% for member in site.data.members.summer %}
+* {{ member.name }} ({{ member.date }})
+{% endfor %}
 

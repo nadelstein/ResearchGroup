@@ -5,7 +5,7 @@ title: "Research"
 
 We run simulations of the reactivity, structure, and properties of materials for electrochemical systems. Our primary focus has been to understand reactivity and ionic diffusion in these materials, especially solid electrolytes for all-solid-state batteries. We have extensive experience in atomic-scale simulations, including first-principles Density Functional Theory molecular dynamics and training machine learning interatomic potentials. Properties calculated at the quantum and atomic scale are then leveraged to inform meso-scale simulations of microstructure. 
 
-The codes we utilize are VASP, Quantum Espresso, and Gaussian for first-principles simulations, and LAMMPS for classical or machine learning interatomic potential simulations. We collaborate with SFSU Professor Jingjing Qiu to study oxygen evolution catalysts and hae worked with SFSU Professor Misty Kuhn to understand acetylation of lysine residues in E. Coli proteins. We have collaborated with SJSU Professor Dahyun Oh to study novel anode materials for Li-ion batteries.
+The codes we utilize are VASP, Quantum Espresso, and Gaussian for first-principles simulations, and LAMMPS for classical or machine learning interatomic potential simulations. We collaborate with SFSU Professor Jingjing Qiu to study oxygen evolution catalysts and have worked with SFSU Professor Misty Kuhn to understand acetylation of lysine residues in E. Coli proteins. We have collaborated with SJSU Professor Dahyun Oh to study novel anode materials for Li-ion batteries.
 
 We are always looking for new master's and undergraduate research students to join the group, so please contact Professor Adelstein if interested. Qualifications are only two semesters of general chemistry and an interest in learning Python and to work on renewable energy research. 
 
@@ -21,7 +21,7 @@ In addition, please contact Professor Adelstein if you would like a pdf of any o
 
 16. K. Kim, N. Adelstein, A. Dive, A. Grieder*, S.Y. Kang, B. C. Wood, L. F. Wan. “Probing degradation at solid-state battery interfaces using machine-learning interatomic potential” Energy Storage Materials 73: 103842 (2024). 
 
-15. J. Xiao, N. Adelstein, Y. Bi, W. Bian, J. Cabana, C. J. Cobb, Y. Cui, S. J. Dilon, M. M. Doeff, S. M. Islam, K. Leung, M. Li, F. Lin, J. Liu, H. Luo, A. C. Marschilok, Y. S. Meng, Y. Qi, R. Sahore, K. G. Sprenger, R. C. Tenent, M. F. Toney, W. Tong, L. F. Wan, C. Wang, S. E. Weitzner, B. Wu, Y. Xu. “Assessing cathode-eletrolyte interphases in batteries” Nature Energy 1-11 (2024). 
+15. J. Xiao, N. Adelstein, Y. Bi, W. Bian, J. Cabana, C. J. Cobb, Y. Cui, S. J. Dilon, M. M. Doeff, S. M. Islam, K. Leung, M. Li, F. Lin, J. Liu, H. Luo, A. C. Marschilok, Y. S. Meng, Y. Qi, R. Sahore, K. G. Sprenger, R. C. Tenent, M. F. Toney, W. Tong, L. F. Wan, C. Wang, S. E. Weitzner, B. Wu, Y. Xu. “Assessing cathode-electrolyte interphases in batteries” Nature Energy 1-11 (2024). 
 
 14. A. Grieder*, K. Kim, L. F. Wan, J. Chapman, B. C. Wood, N. Adelstein, “Effects of Nonequilibrium Atomic Structure on Ionic Diffusivity in LLZO: A Classical and Machine Learning Molecular Dynamics Study” The Journal of Physical Chemistry C 128 (21): 8560-8570 (2024).  
 
@@ -29,7 +29,7 @@ In addition, please contact Professor Adelstein if you would like a pdf of any o
 
 12. J. Qiu, *A. Moeller, *J. Zhen, *H. Yang, *L. Din, N. Adelstein, “Teaching Heterogeneous Electro- catalytic Water Oxidation with Nickel- and Cobalt- Based Catalysts using Cyclic Voltammetry and Python Simulation” The Journal of Chemical Education (ACS Editor’s pick and cover art) 100, 8, 3036–3043 (2023).
   
-11. K. Kim, A. Dive, *A. Grieder, N. Adelstein, S. Kang, L. Wan, and B. C. Wood, “Flexible machine- learning interactomic potential for simulating structural disordering behavior of Li7La3Zr2O12 solid electrolytes” Journal of Chemical Physics 156, 201101 (2022).
+11. K. Kim, A. Dive, *A. Grieder, N. Adelstein, S. Kang, L. Wan, and B. C. Wood, “Flexible machine- learning interatomic potential for simulating structural disordering behavior of Li7La3Zr2O12 solid electrolytes” Journal of Chemical Physics 156, 201101 (2022).
 
 10. *K. M. Jew, *V. T. B. Le, *K. Amaral, *A. Ta, *N. M. Nguyen, *M. Law, N. Adelstein, and M. L. Kuhn, “Investigation of the importance of protein 3D structure for assessing conservation of lysine acetylation sites in protein homologs” Frontiers in Microbiology 12:805181 (2022).
 
@@ -52,12 +52,6 @@ Philosophical Transactions of the Royal Society A. 379 (2211): 20190459 (2021).
 
 1. N. Adelstein and B. Wood, “Role of dynamically frustrated bond disorder in a Li+ superionic solid electrolyte” Chemistry of Materials 28 (20) 7218-7231 (2016).* 
 
-
-## Pulications at LLNL and UCB ##
-Coming soon.
-
-## Posters for your perusal ##
-Coming soon.
 
 
 
