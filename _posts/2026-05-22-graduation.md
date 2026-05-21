@@ -1,6 +1,6 @@
 ---
 title: "Bandeev, Liu, and Samuels graduate"
-date: 2025-05-26T18:00:00-00:00
+date: 2026-05-26T18:00:00-00:00
 categories:
   - blog
 tags:
